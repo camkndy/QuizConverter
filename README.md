@@ -36,10 +36,10 @@ After a successful conversion, the software provides a download link to a zipped
 
 ## Warnings
 
-1. The software may be unstable. If it malfunctions, please contact camkndy@gmail.com
+1. The software may be unstable. If it malfunctions, please contact markmyai@gmail.com
 
 ## Purchase
 
-To purchase the Canvas Quiz to Schoolbox Quiz Converter, please contact me at camkndy@gmail.com for pricing and licensing information.
+To purchase the Canvas Quiz to Schoolbox Quiz Converter, please contact me at markmyai@gmail.com for pricing and licensing information.
 
 
